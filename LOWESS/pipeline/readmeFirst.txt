@@ -6,6 +6,10 @@
 - plotly (for visulazation), https://plotly.com/python/getting-started/
 - Kaleido (required by plotly), https://github.com/plotly/Kaleido
 
+# data
+- Input: bixeng
+- Output: analysis
+
 # how to run
 0. kernelDensityEstimation.py
 1. joinSetupRaw.py
