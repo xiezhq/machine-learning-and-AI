@@ -121,7 +121,7 @@ if __name__ == "__main__":
 		'--report', 
 		required = True, 
 		default = '', 
-		help = "CSV containing the Quality Control (QC) repor, '' by default. A web page containing the QC report is produced as well.")
+		help = "CSV containing the Quality Control (QC) report, '' by default. A web page containing the QC report is produced as well.")
 
 	parser.add_argument(
 		'--cutoff', 
