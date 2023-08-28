@@ -1,0 +1,18 @@
+Plate2
+
+Percentage of outliers in the negative controls: 1.92%
+
+The wells containning the outliers:
+plate,channel,row,col,value,Plate_ID,chem_ID,chem_M,cell_line,neg_control,pos_control,well
+Plate 2,Label2,1,11,950,Plate2,C-1,NA,c2,C-1,C-2,A11
+Plate 2,Label2,9,1,1055,Plate2,C-1,NA,c2,C-1,C-2,I01
+
+
+Plate1
+
+Percentage of outliers in the negative controls: 1.92%
+
+The wells containning the outliers:
+plate,channel,row,col,value,Plate_ID,chem_ID,chem_M,cell_line,neg_control,pos_control,well
+Plate 1,Label2,7,12,1370,Plate1,C-1,NA,c2,C-1,C-2,G12
+Plate 1,Label2,10,23,1395,Plate1,C-1,NA,c2,C-1,C-2,J23
