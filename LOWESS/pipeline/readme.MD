@@ -12,7 +12,7 @@
 # How to run
 1. kernelDensityEstimation.py
 
-   It is used to checking the distribution of the data points. It outputs hist*.pdf and kde*.pdf in ../analysis/.
+   It is used to check the distribution of the data points. It outputs hist*.pdf and kde*.pdf in ../analysis/.
 
 2. joinSetupRaw.py
 
