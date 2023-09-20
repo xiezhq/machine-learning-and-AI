@@ -5,11 +5,11 @@
 - plotly (for visulazation), https://plotly.com/python/getting-started/
 - Kaleido (required by plotly), https://github.com/plotly/Kaleido
 
-# data
+# Data
 - Input folder: ../bixeng
 - Output folder: ../analysis
 
-# how to run
+# How to run
 1. kernelDensityEstimation.py
 
    It is used to checking the distribution of the data points. It outputs hist*.pdf and kde*.pdf in ../analysis/.
