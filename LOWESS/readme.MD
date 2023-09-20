@@ -1,13 +1,13 @@
 # Sub-directories
 
-* LOWESS/bixeng
+* bixeng
 
    It is the folder storing input data.
 
-* LOWESS/analysis
+* analysis
 
    It is the folder storing the output of the pipeline.
 
-* LOWESS/pipeline
+* pipeline
 
    It is the folder where the python scripts are stored.
